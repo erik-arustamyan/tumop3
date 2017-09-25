@@ -1,1 +1,2 @@
-# tumop3
+# earthquakes
+TumoProject
